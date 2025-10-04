@@ -6,12 +6,20 @@
 
 ---
 
-## 👋 Hey there, I'm *Payal Dhobale*  
-🎓 MCA Student | 🚀 Aspiring *Full-Stack Developer* | 🤖 Exploring *GenAI & SaaS Projects*  
-💻 Skilled in *HTML, CSS, JavaScript, React.js, Next.js, Python, Node.js, MySQL*  
-🎯 Currently focusing on *MERN/Next.js Projects & AI-based Applications*  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🎓+MCA+Student;🚀+Aspiring+Full-Stack+Developer;🤖+Exploring+GenAI+%26+SaaS+Projects;💻+Skilled+in+MERN+%26+Next.js;🎯+Focusing+on+AI-based+Applications" alt="Typing SVG" />
+</p>
 
 ---
+
+<!-- Bio Section with Icons -->
+<p align="center">
+  🎓 MCA Student | 🚀 Aspiring <b>Full-Stack Developer</b> | 🤖 Exploring <b>GenAI & SaaS Projects</b><br/>
+  💻 Skilled in <b>HTML, CSS, JavaScript, React.js, Next.js, Python, Node.js, MySQL</b><br/>
+  🎯 Currently focusing on <b>MERN/Next.js Projects & AI-based Applications</b>
+</p>
+
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -54,18 +62,19 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="150" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=radical" height="150" />
-</p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Payal234&show_icons=true&theme=radical" height="150" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal234&layout=compact&theme=radical" height="150" />  
+</p>  
 
----
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Payal234&theme=radical" height="150" />  
+</p>  
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+---  
+
+<!-- Footer -->  
+<p align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />  
+</p>  
