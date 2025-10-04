@@ -8,17 +8,19 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🎓+MCA+Student;🚀+Aspiring+Full-Stack+Developer;🤖+Exploring+GenAI+%26+SaaS+Projects;💻+Skilled+in+MERN+%26+Next.js;🎯+Focusing+on+AI-based+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🎓+MCA+Student;🚀+Aspiring+Full-Stack+Developer;🤖+Exploring+GenAI+%26+SaaS+Projects;💻+Skilled+in+MERN+%26+Next.js;🎯+Focusing+on+AI-based+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- Bio Section with Icons -->
-<p align="center">
-  🎓 MCA Student | 🚀 Aspiring <b>Full-Stack Developer</b> | 🤖 Exploring <b>GenAI & SaaS Projects</b><br/>
-  💻 Skilled in <b>HTML, CSS, JavaScript, React.js, Next.js, Python, Node.js, MySQL</b><br/>
-  🎯 Currently focusing on <b>MERN/Next.js Projects & AI-based Applications</b>
-</p>
+## 👩‍💻 About Me  
+
+🎓 MCA Student  
+🚀 Aspiring Full-Stack Developer  
+🤖 Exploring GenAI & SaaS Projects  
+💻 Skilled in HTML, CSS, JavaScript, React.js, Next.js, Python, Node.js, MySQL  
+🎯 Currently focusing on MERN/Next.js Projects & AI-based Applications  
+
 
 
 ## 🛠 Tech Stack
